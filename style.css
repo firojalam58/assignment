@@ -1,0 +1,225 @@
+
+
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.banner{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 100% !important;
+    background-position: center !important;
+     background-color: #000;
+
+}
+.banner-text{
+    padding: 220px 0;
+    text-align: center;
+}
+.banner-text h1{
+    color: #fff;
+    padding: 0 500px;
+}
+.banner-text p{
+    color: #fff;
+    padding: 0 330px;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.btn {
+    text-decoration: none;
+    color: 	#fff;
+    padding: 20px 25px;
+    background: tomato;
+    border-radius: 10px;
+}
+
+.about-text{
+    text-align: center;
+    padding-top: 60px;
+}
+.about-text p{
+    font-size: 15px;
+    padding: 0 430px;
+    padding-bottom: 30px;
+}
+.abouts{
+    display: flex;
+    margin-left: 400px;
+}
+.about-money{
+    padding: 20px 40px;
+    background: rgb(104, 75, 75);
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid red;
+    margin-bottom: 30px;
+}
+.about-money h2{
+    color: #fff;
+    text-align: center;
+}
+.donation{
+    display: flex;
+}
+.about-donate{
+    text-align: center;
+    width: 50%;
+    border: 1px solir red;
+    margin-bottom: 30px;
+    
+}
+.inpu{
+    /* margin-left: 100px; */
+    padding: 10px 80px;
+    margin-bottom: 40px;
+}
+.btns{
+    text-align: center;
+    width: 20%;
+    padding: 12px 20px;
+    background: tomato;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.service-text{
+    text-align:center;
+    padding-top: 60px;
+}
+.service-text p{
+    padding: 0px 400px;
+    font-size: 14px;
+}
+.service-box{
+    width: 30%;
+    margin-left: 35px;
+    background: red;
+    margin-top: 40px;
+}
+.service-icon{
+    padding: 10px 30px;
+    margin-top: 40px;
+}
+.txt{
+    padding: 10px 30px;
+}
+.txt h2{
+    color: #fff;
+}
+.txt p{
+    color: #fff;
+    padding-bottom: 40px;
+    text-align: justify;
+}
+#box2{
+    background: tomato;
+}
+#box{
+    background: orange;
+}
+.helps{
+    display: flex;
+    padding-top: 60px;
+}
+.help-text{
+    padding-top: 120px;
+    width: 40%;
+    margin-left: 40px;
+}
+.help-text h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.help-btns{
+    text-align: center;
+    width: 23%;
+    padding: 12px 20px;
+    background: tomato;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+.help-img{
+    width: 60%;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+.help-img img{
+    width: 70%;
+    border-radius: 10px;
+}
+#help-images{
+    padding-left: 0px;
+    padding-top: 40px;
+}
+.help-images{
+    width: 55%;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+.help-images img{
+    width: 70%;
+}
+.help-texts{
+    padding-top: 100px;
+    width: 40%;
+}
+#help-size{
+    padding-top: 90px;
+}
+.update-text{
+    text-align: center;
+}
+.update{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.update-text p{
+    padding: 0px 440px;
+    margin-bottom: 50px;
+}
+.update-btn{
+    text-align: center;
+    margin-left: 430px;
+    width: 40%;
+    background: rgb(249, 168, 168);
+    padding: 80px 0;
+    border-radius: 2px;
+}
+.update-inpu{
+    padding:10px 20px;
+    background: rgb(188, 165, 165);
+    border: none;
+    border-radius: 2px;
+}
+.upbtn{
+    background-color: tomato;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+.ftr{
+    padding: 40px;
+    background: #000;
+    text-align: center;
+    margin: 0;
+
+}
+.ftr h2{
+    color: #fff;
+    font-family: 'Splash', cursive;
+}
+.ftr p{
+    color: #fff;
+    font-size: 12px;
+}
